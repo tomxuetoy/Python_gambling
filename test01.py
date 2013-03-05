@@ -1,4 +1,5 @@
 # can play once
+# from link: http://idongnou.com/2012/02/fristpython/
 
 import random
 
